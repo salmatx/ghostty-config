@@ -4,4 +4,5 @@ Ghostty custom configuration. For configuration options visit [Ghostty Docs](htt
 
 # Usage
 
-For Linux clone this repo into ```~/.config/ghostty/config```.
+For Linux clone this repo into `~/.config/ghostty`.
+
